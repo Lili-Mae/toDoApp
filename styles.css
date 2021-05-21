@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+}
+
+.welcomeStatement {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.listGroup{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#cardRow{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.card {
+    margin-bottom: 30px;
+}
